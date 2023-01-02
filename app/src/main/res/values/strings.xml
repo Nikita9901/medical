@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="click_on_the_screen_to_start_playing">Click on the screen to start playing</string>
+</resources>
